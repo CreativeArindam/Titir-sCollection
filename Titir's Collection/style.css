@@ -1,0 +1,91 @@
+			
+			/*For navigation bar ##########################################################*/
+			body{
+				margin:0px;
+				background-color:powderblue;
+			}
+			
+			/*For header ##########################################################*/
+			.header{
+				float:center;				
+			}
+			
+			.header img{
+				position:fixed;
+				margin-bottom:0px;
+				width:250px;
+				height:auto;
+				padding:10px;
+				
+			}
+		
+		/*############################################################################*/
+	    /**/	/*I WANT THIS PART ALSO REMAIN FIXED WHILE SCROLLING*/				/**/
+		/**/	.header h1{															/**/
+		/**/		text-align:center;												/**/
+		/**/		font-size:50pt;													/**/
+		/**/		color:rgb(255,50,150);											/**/
+		/**/		font-family:arial;												/**/
+		/**/		font-style:italic;												/**/
+		/**/		padding:25px;													/**/
+		/**/		background-color:lightgray;										/**/
+		/**/		margin-bottom:0px;												/**/
+		/**/	}																	/**/
+		/**/																		/**/
+		/**/	/*I WANT THIS PART ALSO REMAIN FIXED WHILE SCROLLING*/				/**/
+		/**/	.header p{															/**/
+		/**/		text-align:center;												/**/
+		/**/		background-color:yellow;										/**/
+		/**/		font-size:20pt;													/**/
+		/**/		font-weight:bold;												/**/
+		/**/		margin:0px;														/**/
+		/*############################################################################*/	}
+			
+			/*For navigation bar ##########################################################*/
+			.navigation{
+
+					overflow:hidden;
+					margin-top:0px;
+					background-color:rgba(0,100,255,0.8);
+					width:100%;
+
+				}
+			.navigation a{
+				text-decoration:none;
+				color:white;
+				text-align:center;
+				display:block;
+				float:left;
+				padding:13px 50px;
+					
+			}
+			.navigation a:hover{
+				background-color:rgba(0,100,255,1);
+				border: 2px solid blue;
+				cursor:pointer;
+			}
+			
+			/*For navigation bar ##########################################################*/
+			.lside{
+				margin-top:48px;
+				width:15%;
+				height:100%;
+				border:3px solid rgba(0,100,200,0.7);
+			}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
